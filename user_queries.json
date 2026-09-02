@@ -1,0 +1,158 @@
+[
+  {
+    "id": 1,
+    "query": "What happened to Harvey Weinstein's 2020 rape conviction?",
+    "relevant_guids": [
+      "e3dc5caa18f9a16d7edcc09f8d5c2bb4",
+      "06841ff0e1b7bc89ed179e6370f7c6ae",
+      "b214e496239d3b0e2325901ca042d663",
+      "841d555733f4f74b5191038e97b385a3",
+      "4e747d97ef6f5f2fb5a04044bdaebfb6",
+      "41130f948a7297296c9581572d8f13ee",
+      "2521c3e84973bb67afb5b5a74cda40da",
+      "048ec5bfac01de59134c6068d78ca12f",
+      "73b6f4658b7281e83bdc2af90f6aa98d",
+      "4e6c293fd717a3f2c5a5d4344e148744",
+      "4773ba6c1dd66c38e10a7e72c85ab913",
+      "b381e16d4127bab12b19e7220effb0b4"
+    ],
+    "expected_answer": "New York's highest court overturned Harvey Weinstein's 2020 rape conviction after finding procedural errors in his trial. The decision meant he could face a retrial."
+  },
+  {
+    "id": 2,
+    "query": "What happened to Ariel Henry and the government of Haiti?",
+    "relevant_guids": [
+      "170bd18d1634c44b9339bdbaf1e62123",
+      "072176aad448612370ba30750abf52f9",
+      "2ffb13c7a21437111c6b483ef48368ca",
+      "c9c7840abe76f140036562cde383c894",
+      "e200261b68817233e89a7be32aa843bf"
+    ],
+    "expected_answer": "Ariel Henry resigned as Haiti's prime minister as a transitional council took power. A new transitional government was sworn in, although major challenges including gang violence remained."
+  },
+  {
+    "id": 3,
+    "query": "What is happening with Patriot missile support for Ukraine?",
+    "relevant_guids": [
+      "7bc73f330f64379f5dc8db881f2d714c",
+      "e4186bb3f7b68a29fbcd7b10ebefcbd9",
+      "bf7a1486ae4580ccdac0f37dddb4196a",
+      "73dfc16f31a0393b6140cdc2998454ae",
+      "bf44f90e40dbc47fcf33a85a3b4f8452",
+      "0f4e14aaf93457cdfaaf254bce0fc832"
+    ],
+    "expected_answer": "Ukraine was seeking additional Patriot air-defense systems. The US announced Patriot support as part of a $6 billion aid package, while Spain also moved toward sending Patriot missiles and other countries discussed whether they could provide systems."
+  },
+  {
+    "id": 4,
+    "query": "Why was Donald Trump's presidential immunity case before the US Supreme Court?",
+    "relevant_guids": [
+      "4f585bad8f61b715fbafe2f022ab0ae8",
+      "743008eb6245ba6280bbeb71ddaea2de",
+      "e0461901e612a54e51737c44bab5bbd0",
+      "ccfd9c1e5a957dced6c70ff8adfb6af3",
+      "9678a764bcea32a4826889b2b236454b",
+      "ca57cff1d0e8c8e236e1946e2105649a",
+      "8c0c3536ef1ae8fd645b2747e6beb235",
+      "8f5712bff401deb6ce2c44cac7e6f236",
+      "77d370cb0c276b713afb7d669f8daf89",
+      "411e7cd42ef3d5830ee0a5058889059b",
+      "2bd9a187a816c1dd290a13fb1bb8c322",
+      "a3c510e8d01237e301c110a00483069d",
+      "95cfc7173a923a97032973f0b9b9091e",
+      "aba2962715273cc2fd250c72f58fd3a8",
+      "cc39aa853b10c643e05fbbbf6d40e8f0"
+    ],
+    "expected_answer": "The Supreme Court considered whether a former president, Donald Trump, has immunity from criminal prosecution for actions taken while president. The case could affect the federal election-interference prosecution against him."
+  },
+  {
+    "id": 5,
+    "query": "What happened during the pro-Palestinian protests at Columbia University?",
+    "relevant_guids": [
+      "40500dbf1b87c9e0f45a74d1afdff530",
+      "e0437e8659111872d5eb027e739a55a1",
+      "d99fe55da1290ee5b1429ab3609e5835",
+      "b181bb80447ad65f3a1dac07c486e714",
+      "395839a6c5bf16c1615aa585048aebe6",
+      "69661873699fc8a56e9bde110e82b524",
+      "dfcc206776e968cb0f9f6469267151a0",
+      "34a37b22d4807cb4ed5905cf65e8d144",
+      "8eb8334831d1320bf16a9472e12c9bec",
+      "f6aeb7a9fffd82ee7f7ab386288ac354"
+    ],
+    "expected_answer": "Pro-Palestinian protests intensified at Columbia University, leading to clashes, arrests, political controversy and demands from students that the university divest from Israel-related investments. The protests became part of a wider campus movement across the US."
+  },
+  {
+    "id": 6,
+    "query": "What happened when Israel retaliated against Iran after Iran's attack?",
+    "relevant_guids": [
+      "b4fb583b230687609b42cdcbe613d69",
+      "3bfce679954d98c5408699e8fe9fac51",
+      "0db55aa26b46d2b475622bfc9bd73bfc",
+      "a3d4c8e10c594c36997490d01b1b7fb5",
+      "89664e1df05c0d3467ab165eaef52eba",
+      "ed0db7f6a97f772e1e110564b4cdcf8f",
+      "a404c67ecdcb0f4434c24b971dd97131",
+      "d88479316a05b19825e7a95460f5ae82",
+      "4f814c23ef77d9660ddcecd46250d3ca"
+    ],
+    "expected_answer": "Israel carried out a retaliatory strike against Iran after Iran's attack. The exchange raised concerns about further escalation and its implications for the wider Middle East and Iran's nuclear programme."
+  },
+  {
+    "id": 7,
+    "query": "What were the major developments in India's 2024 election involving Narendra Modi?",
+    "relevant_guids": [
+      "1612023704036c02277b0051f2f7c472",
+      "daa5684438447e8df5172e3a63916ca2",
+      "2722787bd1b096aca21285bdd81befb7",
+      "de310ea0af7693c11211dffd51d248e4"
+    ],
+    "expected_answer": "India's 2024 election involved Narendra Modi seeking another term, with the BJP campaigning across the country. Reports covered voting in different phases, competition with opposition parties, concerns about polarization and voter turnout."
+  },
+  {
+    "id": 8,
+    "query": "What problems and safety concerns have been reported about Tesla's Autopilot system?",
+    "relevant_guids": [
+      "a8da570603015707888a43a99ee9c376",
+      "e6fbe5f0eef9ef746a3316f8eb49f6d7",
+      "bd3e50f9bd6e6aa375063fb000767e9",
+      "f6acaeaa620e5308f9617abd240b4d3",
+      "910253af2f237aed15c7b746ed3c85c8",
+      "8d599102f6180c12c0023ce424def3de"
+    ],
+    "expected_answer": "US auto-safety regulators investigated Tesla's recall involving Autopilot. The investigations linked the system to hundreds of crashes and multiple fatalities and questioned whether Tesla's recall adequately addressed the safety problem."
+  },
+  {
+    "id": 9,
+    "query": "How has China been accused of supporting Russia's military capabilities?",
+    "relevant_guids": [
+      "fac31989a0cc100eb78ae75e4fc7b80d",
+      "7388e80f929ddad29d86e737b7be18af",
+      "471d6862faa4ceb136a6e5857d1c57f2",
+      "ae2b2aba7fcf78b2c94f98e950e3c447",
+      "95147bc183e6f268ce1d7a15aad7061b",
+      "301c5d4f729bf49b869e3b77cef8e8b0",
+      "88302318cfe10cb0633fff9bf7fdcb74",
+      "5f8541de79bf5f1283ee773fc4263545"
+    ],
+    "expected_answer": "US officials accused China of helping Russia strengthen its military-industrial capabilities and supporting Russia despite the war in Ukraine. US Secretary of State Antony Blinken pressed China to stop providing support that could assist Russia."
+  },
+  {
+    "id": 10,
+    "query": "What is happening with the possible US ban on TikTok?",
+    "relevant_guids": [
+      "1a53ee223f0fc938fc3dcfd04707acc7",
+      "65d84a6449c7174ac8ce40358478811e",
+      "f14a6f7ddeabb43017a2060fa9dfa10f",
+      "a8f1a01189c1e9b364464a49c6f1d024",
+      "216aef254ca6d23180bf2c00fd71cc1b",
+      "b2ef0714ef7db35ec6e727d9be8f549f",
+      "4d1ca38a19b7ac80b7f15e8eb917caa4",
+      "f1321943e5d18b0d12805f32928c0127",
+      "2baf228e5b864125d03fbbf2976e026e",
+      "e549beaccb9654631336b685549350cf",
+      "6c75c5800f31d39708a559db2caa0b88"
+    ],
+    "expected_answer": "The US passed legislation that could result in TikTok being banned unless its Chinese parent company ByteDance sells the US business. TikTok and ByteDance said they would challenge the law, while the legislation raised broader concerns about national security and Chinese ownership."
+  }
+]
