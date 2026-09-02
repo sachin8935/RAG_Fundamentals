@@ -17,8 +17,7 @@ env/
 data.json
 dataset_embedding.npz
 
-# Local datasets
-news_dataset.csv
+
 
 # macOS
 .DS_Store
