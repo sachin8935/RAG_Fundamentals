@@ -19,5 +19,8 @@ def data_retrieval_BM(user_query,top_k):
     tokenized_query,
     k=top_k
     )
-
-    return result,scores
+    data_guid=[]
+    for i in range(0,5):
+        index= result[0][i]
+        data_guid.append(dataset[index]['guid'])
+    return data_guid

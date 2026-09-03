@@ -3,3 +3,4 @@ pandas
 numpy
 bm25s
 scikit-learn
+dotenv

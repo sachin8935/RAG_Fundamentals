@@ -1,6 +1,8 @@
 import numpy as np
 from openai import OpenAI
 from sklearn.metrics.pairwise import cosine_similarity
+from dotenv import load_dotenv
+load_dotenv()
 client= OpenAI()
 
 def semantic_results(query,top_k):

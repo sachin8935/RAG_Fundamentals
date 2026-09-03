@@ -1,5 +1,7 @@
 from openai import OpenAI
 import data_filteration
+from dotenv import load_dotenv
+load_dotenv()
 import numpy as np
 client= OpenAI()
 def semantic_embed_dataset():
